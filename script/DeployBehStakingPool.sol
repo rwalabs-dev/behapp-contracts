@@ -4,7 +4,7 @@ pragma solidity ^0.8.17;
 import "forge-std/Script.sol";
 import {BehStakingPool} from "../src/BehStakingPool.sol";
 
-contract Deploy is Script {
+contract DeployBehStakingPool is Script {
     function setUp() public {}
 
     function run() public {
