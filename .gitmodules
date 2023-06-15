@@ -9,4 +9,3 @@
 [submodule "lib/staking-contracts"]
 	path = lib/staking-contracts
 	url = https://github.com/niera26/staking-contracts
-	branch = 1.0
